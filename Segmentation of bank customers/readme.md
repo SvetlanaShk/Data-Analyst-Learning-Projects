@@ -1,0 +1,1 @@
+In this project, bank customers are analyzed and segmented according to the number of products consumed. Next, hypotheses about the difference in income between those customers who use two bank products and those who use one are tested. The hypothesis about the difference in the average income between residents of different cities is also tested.
