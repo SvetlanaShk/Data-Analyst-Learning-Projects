@@ -1,27 +1,9 @@
 # Data-Analyst-Learning-Projects
 The projects reflect the skills and tools that I use in my work as a data analyst.
+Below you can find summaries of my projects.
 
-Skills:
-- Data preparation
-- Exploratory data analysis (EDA)
-- Data visualisation
-- Descriptive statistics
-- Testing of statistical hypotheses
-- Cohort analysis
-- Product metrics
-- Unit economy
-- A/B-tests
-- Event analytics
-- Clustering
-- Machine learning (ML)
-
-Tools:
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- SciPy
-- PostgreSQL
-- Seaborn
-- Plotly
-- Scikit-learn
+Project Name | Business Type | Project Goal | Tools & Skills |
+------------ | ------------- | ------------ | -------------- |
+[Finding the patterns that determine the success of games](https://github.com/SvetlanaShk/Data-Analyst-Learning-Projects/tree/main/Finding%20the%20patterns%20that%20determine%20the%20success%20of%20games) | Gamedev, online-shop |  Using historical data on sales of computer games, user and expert ratings, genres and platforms, identify patterns that determine the success of a game | Pandas, Matplotlib, Python, NumPy, Exploratory data analysis (EDA), Descriptive statistics, Data preprocessing, Testing of statistical hypotheses |
+[Profitable tariff determination for telecom company](https://github.com/SvetlanaShk/Data-Analyst-Learning-Projects/tree/main/Profitable%20tariff%20determination%20for%20telecom%20company) | Telecom | Based on the data of the mobile operator's customers, analyze the behavior of customers and find profitable tariff | Matplotlib, NumPy, Pandas, Python, SciPy, Descriptive statistics, Testing of statistical hypotheses |
+[Segmentation of bank customers](https://github.com/SvetlanaShk/Data-Analyst-Learning-Projects/tree/main/Segmentation%20of%20bank%20customers) | Banking | Analyze bank customers and segment them according to the number of products consumed. Test two hypotheses: 1) about the difference in income between those customers who use two bank products and those who use one, 2) about the difference in the average income between residents of different cities | matplotlib, seaborn, scipy, pandas, numpy, Testing of statistical hypotheses, Segmentation of clients, Exploratory data analysis (EDA), Presentation Design, Visualization in Tableau
